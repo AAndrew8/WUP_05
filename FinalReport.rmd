@@ -75,9 +75,13 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+the odds show that If you are a women and you take the treatment, you are 1.54 times more likely to attract aids than those who didn't. This data shows that we must reject the null hypothesis because the p-value is less than 0.5.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+
+We conducted several tests to prove that either the treatment is effective or not effective in preventing aids in women. During A Graphical descriptive it shows that among women who contracted aids, most of them had undergone treatment , therefore the treatment does not appear effective, as well as those who got aids, 58.82% of them received treatment. In conclusion the odds show that If you are a women and you take the treatment, you are 1.54 times more likely to attract aids than those who didn't. This data shows that we must reject the null hypothesis because the p-value is less than 0.5.
